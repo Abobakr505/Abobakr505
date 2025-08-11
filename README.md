@@ -101,6 +101,15 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 </p>
 
 ---
+## 💼 My CV
+<div align="center">
+<a href="./Abobakr_Hasan_CV.pdf" target="_blank" download>
+  <img src="https://img.shields.io/badge/View%20My%20CV-D14836?style=for-the-badge&logo=pdf&logoColor=white" />
+</a>
+<div align="center">
+
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abobakr505&style=for-the-badge" alt="Profile Views"/>
