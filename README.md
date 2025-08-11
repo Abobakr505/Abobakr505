@@ -33,7 +33,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 ### **Frontend**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
@@ -67,9 +67,9 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 ### **AI Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grok%20AI-FFD43B?logoColor=black"/>
+  <img src="https://img.shields.io/badge/Grok%20AI-000000?logoColor=black"/>
   <img src="https://img.shields.io/badge/Lovable%20Dev-FF69B4?logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bolt%20New-FF4500?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bolt%20New-141414?logoColor=white"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
+  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-141414?logo=netlify&logoColor=white"/></a>
   <a href="https://github.com/Abobakr505"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
   <a href="mailto:abobakrhasan5335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@yasuruha"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
