@@ -74,7 +74,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ---
 
-## 🏆 Highlight Projects
+## 💫 Highlight Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Dentist Portfolio + Admin Panel** | Dentist site with control panel to add/remove content | React, Supabase, TailwindCSS |
@@ -85,10 +85,26 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ---
 
-## 🎯 Certificates
-- 🏅 **React.js** – MaharaTech (2024)  
-- 📈 **Digital Marketing** – Google (2023)  
-- 💻 **HTML** – Sololearn (2023)  
+---
+
+## 🏆 My Certificates
+
+<p align="center">
+  <div>
+    <figure style="display:inline-block; margin: 10px;">
+      <img src="certificate-1" alt="React.js – MaharaTech" width="200"/>
+      <figcaption align="center">React.js – MaharaTech (2024)</figcaption>
+    </figure>
+    <figure style="display:inline-block; margin: 10px;">
+      <img src="certificate-2" alt="Digital Marketing – Google" width="200"/>
+      <figcaption align="center">Digital Marketing – Google (2023)</figcaption>
+    </figure>
+    <figure style="display:inline-block; margin: 10px;">
+      <img src="./certificate-3" alt="HTML – Sololearn" width="200"/>
+      <figcaption align="center">HTML – Sololearn (2023)</figcaption>
+    </figure>
+  </div>
+</p>
 
 ---
 
