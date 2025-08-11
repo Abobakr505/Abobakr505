@@ -2,7 +2,7 @@
 <!--      ABOBAKR’S README     -->
 <!-- ========================= -->
 
-<h1 align="center">Hey there, I’m <a href="https://bakrhasan.netlify.app/">Abobakr Hasan</a> 👋</h1>
+<h1 align="center">Alsalam Ealaykum , I’m <a href="https://bakrhasan.netlify.app/">Abobakr Hasan</a> 👋</h1>
 <p align="center"><em>Full-Stack & Mobile App Developer · High School Student · Lifelong Learner</em></p>
 <p align="center">📅 <strong>Last updated:</strong> August 11, 2025</p>
 <p align="center">💼 <strong>Current:</strong> Remote Full Stack Developer at Tawr Company</p>
@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 <div align="center">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/nL0jkpww/Photoroom.png" width="250" alt="Coding GIF"/>
 </div>
 
 <div align="left">
