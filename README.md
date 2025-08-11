@@ -22,41 +22,59 @@ Alsalam Ealaykum 👋, I’m <strong>Bakr Hasan</strong>, a passionate Full-Stac
 ⚡ I integrate payment gateways, authentication systems, and responsive designs.  
 📚 I’m always learning new technologies and improving my skills.  
 
-**Specialties:**  
-Frontend (React, Tailwind, GSAP) · Backend (GoLang, Supabase) · Mobile (React Native, Expo)
+**Preferred Stack:**  
+Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native, Expo)
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Full Tech Stack
+
+### **Frontend**
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black"/>
+</p>
+
+### **Backend**
+<p align="center">
   <img src="https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+</p>
+
+### **Mobile Development**
+<p align="center">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white"/>
+</p>
+
+### **Tools & Others**
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### **AI Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grok%20AI-FFD43B?logoColor=black"/>
+  <img src="https://img.shields.io/badge/Lovable%20Dev-FF69B4?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bolt%20New-FF4500?logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Stats & Achievements
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abobakr505&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abobakr505&layout=compact&theme=radical" height="165"/>
-</div>
-
----
-
-## 🏆 Projects
+## 🏆 Highlight Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Dentist Portfolio + Admin Panel** | Dentist site with control panel to add/remove content | React, Supabase, TailwindCSS |
@@ -71,13 +89,6 @@ Frontend (React, Tailwind, GSAP) · Backend (GoLang, Supabase) · Mobile (React 
 - 🏅 **React.js** – MaharaTech (2024)  
 - 📈 **Digital Marketing** – Google (2023)  
 - 💻 **HTML** – Sololearn (2023)  
-
----
-
-## 📊 LeetCode Heatmap
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abobakr505?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</p>
 
 ---
 
