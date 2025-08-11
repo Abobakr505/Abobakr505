@@ -92,11 +92,11 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 <p align="center">
   <div>
     <figure style="display:inline-block; margin: 10px;">
-      <img src="certificate-1" alt="React.js – MaharaTech" width="200"/>
+      <img src="./certificate-2" alt="React.js – MaharaTech" width="200"/>
       <figcaption align="center">React.js – MaharaTech (2024)</figcaption>
     </figure>
     <figure style="display:inline-block; margin: 10px;">
-      <img src="certificate-2" alt="Digital Marketing – Google" width="200"/>
+      <img src="./certificate-1" alt="Digital Marketing – Google" width="200"/>
       <figcaption align="center">Digital Marketing – Google (2023)</figcaption>
     </figure>
     <figure style="display:inline-block; margin: 10px;">
