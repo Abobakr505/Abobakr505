@@ -39,12 +39,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abobakr505&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
 
 ---
 
