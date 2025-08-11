@@ -89,22 +89,22 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ## 🏆 My Certificates
 
-<p align="center">
-  <div>
-    <figure style="display:inline-block; margin: 10px;">
-      <img src="./certificate-2" alt="React.js – MaharaTech" width="200"/>
-      <figcaption align="center">React.js – MaharaTech (2024)</figcaption>
-    </figure>
-    <figure style="display:inline-block; margin: 10px;">
-      <img src="./certificate-1" alt="Digital Marketing – Google" width="200"/>
-      <figcaption align="center">Digital Marketing – Google (2023)</figcaption>
-    </figure>
-    <figure style="display:inline-block; margin: 10px;">
-      <img src="./certificate-3" alt="HTML – Sololearn" width="200"/>
-      <figcaption align="center">HTML – Sololearn (2023)</figcaption>
-    </figure>
-  </div>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/VNxqWgVV/certificate-3.webp" width="200"/><br/>
+      <sub><b>React.js – MaharaTech (2024)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/nrZq6zZK/certificate-1.webp" width="200"/><br/>
+      <sub><b>Digital Marketing – Google (2023)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/Zq8RXLqg/certificate-2.webp" width="200"/><br/>
+      <sub><b>HTML – Sololearn (2023)</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
