@@ -111,6 +111,10 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
       <img src="https://i.postimg.cc/Zq8RXLqg/certificate-2.webp" width="200"/><br/>
       <sub><b>HTML – Sololearn (2023)</b></sub>
     </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/4xV0P1k0/Screenshot-2025-08-12-105612.png" width="200"/><br/>
+      <sub><b>Essentials of ChatGPT – Almdrasa (2025)</b></sub>
+    </td>
   </tr>
 </table>
 
