@@ -1,6 +1,10 @@
 <!-- ========================= -->
 <!--      ABOBAKR’S README     -->
 <!-- ========================= -->
+<div align="center">
+  <img src="https://i.postimg.cc/pX0Ghk4t/img.png" width="300" alt="Coding GIF"/>
+</div>
+
 
 <h1 align="center">Alsalam Ealaykum , I’m <a href="https://bakrhasan.netlify.app/">Abobakr Hasan</a> 👋</h1>
 <p align="center"><em>Full-Stack & Mobile App Developer · High School Student · Lifelong Learner</em></p>
@@ -73,6 +77,9 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 </p>
 
 ---
+<div align="center">
+  <img src="https://i.postimg.cc/sDSx10vM/1-Photoroom.png" width="250" alt="Coding GIF"/>
+</div>
 
 ## 💫 Highlight Projects
 | Project | Description | Tech |
@@ -107,6 +114,9 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 </table>
 
 ---
+<div align="center">
+  <img src="https://i.postimg.cc/RZ53Rxj1/3-Photoroom.png"  width="300" alt="Coding GIF"/>
+</div>
 
 ## 🤝 Connect with Me
 <p align="center">
