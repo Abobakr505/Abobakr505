@@ -137,17 +137,17 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-141414?logo=netlify&logoColor=white"  width="120" /></a>
-  <a href="https://github.com/Abobakr505"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="120"/></a>
-  <a href="mailto:abobakrhasan5335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"  width="120"/></a>
-  <a href="https://www.tiktok.com/@yasuruha"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"  width="120"/></a>
+  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-141414?logo=netlify&logoColor=white"  width="100" /></a>
+  <a href="https://github.com/Abobakr505"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="100"/></a>
+  <a href="mailto:abobakrhasan5335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"  width="100"/></a>
+  <a href="https://www.tiktok.com/@yasuruha"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"  width="100"/></a>
 </p>
 
 
 ## 💼 My CV
-<div align="center">
+<div align="center" width="120">
 <a href="./Abobakr_Hasan_CV.pdf" target="_blank" download>
-  <img src="https://img.shields.io/badge/View%20My%20CV-FF0000?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20My%20CV-FF0000?style=for-the-badge&logo=googledocs&logoColor=white"  />
 </a>
 </div>
 
