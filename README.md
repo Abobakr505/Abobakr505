@@ -92,8 +92,11 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 | **Sadaqah App** | Charitable app for good deeds | React Native, Expo, Supabase |
 
 ---
-
----
+<hr/>
+<div align="center">
+  <img src="https://i.postimg.cc/zGTywSMX/3-removebg-preview.png" width="300" alt="Coding GIF"/>
+</div>
+<hr/>
 
 ## 🏆 My Certificates
 
@@ -134,13 +137,13 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-141414?logo=netlify&logoColor=white"/></a>
-  <a href="https://github.com/Abobakr505"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="mailto:abobakrhasan5335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@yasuruha"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
+  <a href="https://bakrhasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-141414?logo=netlify&logoColor=white"  width="120" /></a>
+  <a href="https://github.com/Abobakr505"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" width="120"/></a>
+  <a href="mailto:abobakrhasan5335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"  width="120"/></a>
+  <a href="https://www.tiktok.com/@yasuruha"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"  width="120"/></a>
 </p>
 
----
+
 ## 💼 My CV
 <div align="center">
 <a href="./Abobakr_Hasan_CV.pdf" target="_blank" download>
