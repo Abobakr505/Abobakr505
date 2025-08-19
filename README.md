@@ -154,7 +154,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ---
 <div align="center">
-  <img src="https://i.postimg.cc/fyCzLPPq/ec4fa09a3ba60e23e41660f156548472.png" width="300" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/fyCzLPPq/ec4fa09a3ba60e23e41660f156548472.png" width="250" alt="Coding GIF"/>
 </div>
 <hr/>
 
