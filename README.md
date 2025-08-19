@@ -94,7 +94,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 ---
 <hr/>
 <div align="center">
-  <img src="https://i.postimg.cc/zGTywSMX/3-removebg-preview.png" width="300" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/YSrxLLjX/alanghoka-Shop-Redbubble-Photoroom.png" width="300" alt="Coding GIF"/>
 </div>
 <hr/>
 
