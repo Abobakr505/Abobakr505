@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 <div align="center">
-  <img src="https://i.postimg.cc/nL0jkpww/Photoroom.png" width="250" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/V6RQBCFd/c8e4b113ee70f5b8f43ab353664f3749.png" width="250" alt="Coding GIF"/>
 </div>
 
 <div align="left">
@@ -153,6 +153,10 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 
 ---
+<div align="center">
+  <img src="https://i.postimg.cc/fyCzLPPq/ec4fa09a3ba60e23e41660f156548472.png" width="300" alt="Coding GIF"/>
+</div>
+<hr/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abobakr505&style=for-the-badge" alt="Profile Views"/>
