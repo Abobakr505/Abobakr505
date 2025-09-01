@@ -2,7 +2,7 @@
 <!--      ABOBAKR’S README     -->
 <!-- ========================= -->
 <div align="center">
-  <img src="https://i.postimg.cc/Y08vqvXt/5-Photoroom.png" height="300" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/NfkJ3jg3/10-removebg-preview.png" height="300" alt="Coding GIF"/>
 </div>
 
 
@@ -79,7 +79,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 
 ---
 <div align="center">
-  <img src="https://i.postimg.cc/sDSx10vM/1-Photoroom.png" width="250" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/W3c1qnQq/271897370a952d7c959a5ea5f6016574-removebg-preview.png" width="250" alt="Coding GIF"/>
 </div>
 
 ## 💫 Highlight Projects
@@ -94,7 +94,7 @@ Frontend (React, Tailwind) · Backend (GoLang, Supabase) · Mobile (React Native
 ---
 <hr/>
 <div align="center">
-  <img src="https://i.postimg.cc/YSrxLLjX/alanghoka-Shop-Redbubble-Photoroom.png" width="300" alt="Coding GIF"/>
+  <img src="https://i.postimg.cc/YSrxLLjX/alanghoka-Shop-Redbubble-Photoroom.png" width="350" alt="Coding GIF"/>
 </div>
 <hr/>
 
